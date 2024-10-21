@@ -7,3 +7,5 @@ Construimos dos soportes para los elementos radiantes de los dipolos de VHF y UH
 además de añadir dos huecos frontales para pasar tornillos roscachapa de 4mm que sirvan para fijar la varilla al boom, para que no se mueva y a la vez
 para conectar vivo y malla respectivamente.
 En la parte inferior utilizamos tornillos M4 y tuercas (mejor mariposas) para fijar cada elemento en su posición.
+Para los soportes de las varillas hemos diseñado uno más pequeño, porque las varillas atraviesan el soporte, quedando la mitad justo en el centro del soporte.
+Los soportes de las varillas llevan un par de huecos M4 en la parte superior para poder pasar por uno de ellos un tornillo roscachapa para inmovilizar la varilla.
